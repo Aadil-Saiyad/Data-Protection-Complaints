@@ -1,0 +1,139 @@
+{
+  "recommendations": {
+    "article": [
+      {
+        "articleIdentifier": "Art 15 - Right of access",
+        "articleDescription": "Article 15 of the GDPR gives individuals the right to access their personal data held by organisations, allowing them to obtain information about how their data is processed and request a copy of it in electronic format.",
+        "recommendations": "Ensure your data is transparent: You should inform individuals how you collect, process and store their data. Transparency can be achieved through privacy policies, consent forms and notifications about the changes in data processing methods. This provides trust and allows your organisation to prove GDPR compliance. ",
+        "recommendations2": "Maintain your Data: You need to ensure you have a complete inventory of all personal data that you collect and process. This means keeping records of the collected information, its purposes of collection, and the legal grounds for processing and retention periods. This will help your organisation to identify the risks properly, take preventive actions and respond to data requests.",
+        "recommendations3": "Efficient access request handling: You should implement an efficient process for handling data access. Requests under the Article 15 of the GDPR implies the development of clear protocols of verifying the identity of the data subject, facilitating the retrieval of the requested data, and ensuring the timely response. Additionally, you need to develop the processes for transmitting personal data securely and keeping audit trails of data access requests."
+      },
+      {
+        "articleIdentifier": "Art 17 - Right to erasure",
+        "articleDescription": "Article 17 of the GDPR, the Right to Erasure, allows individuals to request the deletion of their personal data from an organisation's database under certain conditions.",
+        "recommendations": "Implement clear data retention policies: You need to set and uphold policies stating how long you will store personal data of various categories. Through regular review and erasure of any data no longer required for the intentions for which it collected; your organisation will decrease the danger of non-compliance with Article 17.",
+        "recommendations2": "Offer clear means of people to request data be deleted: Your organisation needs to ensure that people have ways of quickly making data erasure requests. This includes taking steps to guarantee that the process can be completed with minimal hassle, as well as providing directions for people who want to exercise their right under Article 17. You also have to ensure that these steps can be done quickly in a timely manner.",
+        "recommendations3": "Regular data audits: Your organisation will have to audit your data storage systems and databases regularly to understand quickly and correct situations where personal data should be deleted as defined in Article 17. Auditing should include all data processing activities, such as data collected, stored, transferred to another party, and data entrusted to the third party to ensure all data deletion obligations are adhered to."
+      },
+      {
+        "articleIdentifier": "Art 5 - Principles relating to processing of personal data",
+        "articleDescription": "Article 5 of the GDPR outlines the fundamental principles for processing personal data, which emphasises the legality, fairness, transparency, purpose limitation, data minimisation, accuracy, storage limitation, integrity, and confidentiality of the data being used.",
+        "recommendations": "Data Minimisation: You need to ensure that the personal data you collect, and process is only as much as you need necessary for the intended use. By limiting the amount of sensitive information stored, data minimisation will help reduce the risk of non-compliance and a potential data breach. ",
+        "recommendations2": "Data Accuracy and Integrity: For your organisation to remain compliant with Article 5, you should ensure that the personal data is maintained accurately and reliably. This can be achieved through regular review, update, and correction of any data that may have become either inaccurate or outdated. ",
+        "recommendations3": "Security Measures: As a mechanism against unauthorised access, alteration, or disclosure of data, security measures such as encryption, access control, and regular assessment should be employed. This ensures that the confidentiality and integrity principles are maintained as documented under Article 5 of the GDPR."
+      },
+      {
+        "articleIdentifier": "Art 32 - Security of processing",
+        "articleDescription": "Article 32 of the GDPR requires organisations to implement security measures to protect personal data from unauthorised access, loss, or alteration.",
+        "recommendations": "Implement Strong Encryption: Your organisation must keep personal data encrypted using robust encryption techniques such as AES for data at rest and TLS for data in transit. Additionally, the encryption keys must be securely managed and ensure they can substantially secure the personal data when well-implemented. The encryption should also be well-kept across all the possible involved systems, software, and devices.",
+        "recommendations2": "Regular Security Testing: Your organisation must regularly complete comprehensive security tests. The tests will help identify all potential vulnerabilities and weakness in the organisational setup. The tests can help mitigate a threat to the security of the data.",
+        "recommendations3": "Access Control Measures: You must Implement access control measures based on the principle of least privilege. This ensures that only authorised individuals have access to personal data. This includes employing role-based access control and strong authentication mechanisms such as multi-factor authentication. Regularly reviewing this and updating access permissions based on personnel changes or role requirements is also required."
+      },
+      {
+        "articleIdentifier": "Art 16 - Right to rectification",
+        "articleDescription": "Article 16 of the GDPR grants individuals the right to rectify inaccurate or incomplete personal data held by organisations. This includes the right to have their data updated or amended if it is incorrect or outdated.",
+        "recommendations": "Implement data collection policies: Your organisation must formulate policies and procedures to regulate the collection, storage, and processing of personal information. The data governance frameworks you implement should define the key roles handling personal information, enforce protection requirements, and establish a clear line of accountability across the organisation. ",
+        "recommendations2": "Implement data accuracy processes: Formulate protocols within your organisation for reviewing and verifying all personal information routinely. This can involve data audits, validation checks, and updating processes, to guarantee the continued integrity of personal data. ",
+        "recommendations3": "Provide employee training: Develop a training program that teaches your employees about the importance of data accuracy and the specific actions they need to take to maintain it. This includes training in data entry procedures and error correction and reporting. Regular training sessions ensure that your employees are knowledgeable of and compliant with the GDPR requirements."
+      },
+      {
+        "articleIdentifier": "Art 6 - Lawfulness of processing",
+        "articleDescription": "Article 6 of the GDPR ensures the legal grounds for processing personal data, including consent, contract fulfilment, legal obligations, vital interests, public tasks, and legitimate interests, providing a framework for lawful and transparent data processing.",
+        "recommendations": "Valid Consent: Your Organisation should ensure that you obtain explicit and informed consent from individuals before processing their personal data, following the GDPR's guidelines on consent management.",
+        "recommendations2": "Data Minimisation: Implementing data minimisation practices into your organisation must be done by only collecting and processing personal data that is necessary for the intended purpose  which helps mitigate the risk of non-compliance with Article 6.",
+        "recommendations3": "Transparent Processing: Maintaining transparency in data processing activities by providing your clients with clear and easily accessible information about how their data will be used and by whom, can help your organisation demonstrate compliance with Article 6 of the GDPR."
+      },
+      {
+        "articleIdentifier": "Art 21 - Right to object",
+        "articleDescription": "Article 21 of the GDPR grants individuals the right to object to the processing of their personal data, including profiling for direct marketing purposes.",
+        "recommendations": "Provide Clear Opt-Out Mechanisms: Your organisation should offer easily accessible and user-friendly opt-out mechanisms for individuals who wish to object to the processing of their personal data for direct marketing purposes. This includes providing unsubscribe links in marketing emails and allowing users to manage their marketing preferences through online accounts.",
+        "recommendations2": "Process Opt-Out Requests Promptly: Once an individual exercises their right to object to the processing of their personal data, you must promptly adhere to their request and stop processing their data for marketing purposes. This entails updating marketing databases and systems to ensure that the individual's preferences are respected.",
+        "recommendations3": "Maintain Records of Objections: Your organisation should maintain accurate records of individuals who have objected to the processing of their personal data for marketing purposes. Keeping detailed records helps demonstrate compliance with Article 21 of the GDPR and facilitates the management of opt-out requests over time."
+      },
+      {
+        "articleIdentifier": "Art 14 - Right to be informed",
+        "articleDescription": "Article 14 of the GDPR outlines the requirements for informing data subjects when their personal data is collected from sources other than the individual themselves.",
+        "recommendations": "Comprehensive Information: Your organisation must provide your consumers with all specified information under Article 14 of the GDPR. This includes the identity of the controller and its contact details, processing purposes, categories of processed data, recipients, and details about international transfers. This is helps to reduce uncertainty among data subjects.",
+        "recommendations2": "Timely Provision: Your organisation must provide the information as soon as possible but in no more than a month since one’s personal data has been received.",
+        "recommendations3": "Transparency and Fairness: Your organisation must inform the data subject about the data’s storage terms and conditions, including the rights to access, correct, and delete or restrict processing, duration, and the ability to oppose it."
+      },
+      {
+        "articleIdentifier": "Art 15(3)(1) - Provide a copy of the personal data",
+        "articleDescription": "Article 15(3)(1) of the GDPR mandates that any individual has the right to obtain a copy of their personal data from their data controller. This ensures transparency and allows individuals to access and review the information that organisations hold about them, which enables them to verify its accuracy and legality.",
+        "recommendations": "Compliance with requests: Your organisation must promptly respond to requests from individuals making a request for a copy of their personal data. The response should be made promptly but no later than one month after the inquiry. ",
+        "recommendations2": "Accuracy and completeness: You must make sure that the copy of personal data that you have provided to the individual is accurate, complete, and relevant to the request of that consumer.",
+        "recommendations3": "Data Security: Your organisation must implement measures to safeguard the confidentiality and integrity of the personal data provided to clients. This includes securely transmitting the data to the data subject and protecting it from unauthorised access, disclosure, or alteration. Additionally, you should establish procedures for verifying the identity of the individual making the request to prevent unauthorised access to personal data."
+      },
+      {
+        "articleIdentifier": "Art 5(1)(f) - Integrity and confidentiality principle",
+        "articleDescription": "Article 5(1)(f) of the GDPR ensures organisation should take all necessary and reasonable measures to protect personal data from unauthorised or illegal processing as well as from accidental loss, destruction, or damage.",
+        "recommendations": "Implement Security Measures: Your organisation must secure personal data and maintain its integrity and confidentiality by implementing robust security measures such as encryption, access controls, and regular security audits.",
+        "recommendations2": "Employee Training and Awareness: Your organisation must prevent breaches by training employees on the protocols of data protection and the confidentiality requirements while working on personal data to protect its integrity. You must also familiarise the employees with the best practices to prevent the breach of integrity of personal data.",
+        "recommendations3": "Regular Data Assessments and Audits: Your organisation must identify the vulnerabilities of your system by conducting regular data assessments and audits of processing data and ensure it complies with data protection regulations. This helps avoid a breach that will compromise the integrity of personal data."
+      },
+      {
+        "articleIdentifier": "Art 5(1)(a) - Lawfulness, fairness and transparency principle",
+        "articleDescription": "Article 5(1)(a) of the GDPR mandates that organisations process personal data lawfully, fairly, and transparently. It ensures that they legally and fairly handle data and have transparent communication about data processing activities to individuals.",
+        "recommendations": "Legal Clarity: Your organisation must ensure that the legality of data processing and compliance is made clear with the consumers and ensure that consent to process their data is taken and recorded.",
+        "recommendations2": "Fair Practices: Your organisation must adhere to fair processing practices, such as ensuring  transparency with clients about how their data is being used and processed, non-discrimination, and ensuring individuals with control over their data.",
+        "recommendations3": "Transparency and Accountability: Your organisation must remain transparent when data processing, including clear communication with data subjects, and maintaining detailed records for accountability, are essential for compliance."
+      },
+      {
+        "articleIdentifier": "Art 12",
+        "articleDescription": "Article 12 of the GDPR mandates clear, accessible information about data processing and data subject rights. It ensures transparency and straightforward communication between data controllers and data subjects.",
+        "recommendations": "Accessibility: Your organisation must ensure that the information provided to data subjects is easily accessible, such as through privacy notices, websites, or direct communication. This facilitates data subjects' understanding of their rights and how to exercise them.",
+        "recommendations2": "Proactive Communication: Your organisation should proactively communicate with data subjects regarding any changes to their data processing practices or policies. This includes informing them about updates to privacy policies, changes in data processing purposes, or any incidents that may affect their personal data.",
+        "recommendations3": "Transparent Processing: Maintaining transparency in data processing activities by providing your clients with clear and easily accessible information about how their data will be used and by whom."
+      },
+      {
+        "articleIdentifier": "Art 5(1)(d)",
+        "articleDescription": "Article 5(1)(d) of the GDPR, known as the Accuracy Principle, mandates that personal data must be accurate and kept up to date. Organisations are required to take reasonable steps to ensure that inaccurate or incomplete data is rectified or erased without delay.",
+        "recommendations": "Regular Data Audits: Your organisation must conduct regular audits of stored data to identify inaccuracies and outdated information. This involves comparing data against reliable sources, as well as checking for duplicates and verifying the accuracy the data stored.",
+        "recommendations2": "Data Validation: Your organisation must maintain the necessary  validation protocols when collecting data to ensure accuracy. This includes format checks, range validation, and logic validation to minimise errors and ensure data integrity.",
+        "recommendations3": "Control by Data Subjects: Your organisation must enable individuals to access and update their personal data easily. You must also provide clear mechanisms, such as online portals or self-service tools, for them to review and correct their information. You must also facilitate forms of communication with the data subjects to report inaccuracies or request modifications."
+      },
+      {
+        "articleIdentifier": "Art 17(1) - Right to erasure",
+        "articleDescription": "Article 17(1) of the GDPR is the Right to Erasure which allows individuals to request the deletion of their personal data under specific circumstances. This includes situations where the data is no longer needed or consent is withdrawn, and if the processing of the data is unlawful. The organisation must  then promptly erase the data unless legal grounds for retention exist.",
+        "recommendations": "Regular Data Audits: Your organisation must conduct regular audits of stored data to identify inaccuracies and outdated information. This involves comparing data against reliable sources, as well as checking for duplicates and verifying the accuracy the data stored.",
+        "recommendations2": "Maintain Clear Procedures: Your organisation should develop clear procedures for handling requests for erasure of personal data. This includes establishing a way for individuals to get into contact for such requests and ensuring that staff members are trained to recognise and appropriately respond to these requests.",
+        "recommendations3": "Implement data deletion mechanisms: Your organisation should implement data deletion mechanisms to securely erase personal data upon request. This could be automated so that the deletion is efficient and secure deletion from all relevant systems and backups. You must also maintain records of data erasure activities to demonstrate compliance."
+      },
+      {
+        "articleIdentifier": "Art 35 - Data protection impact assessment",
+        "articleDescription": "Article 35 of the GDPR mandates organisations to conduct Data Protection Impact Assessments to evaluate and mitigate privacy risks associated with processing personal data.",
+        "recommendations": "Thorough Impact Assessments: Doing detailed Data Protection Impact Assessments (DPIAs) for all activities that involve high privacy risks helps follow GDPR rules by finding and fixing possible privacy problems before they happen.",
+        "recommendations2": "Privacy-focused Design: Using privacy-by-design ideas in how systems and processes are made means thinking about privacy issues from the start, making sure privacy is a big part of how your organisation’s services are planned.",
+        "recommendations3": "Strong Rules and Training: Making clear rules and ways of doing things inside the organisation for how data is handled, who can get it, and what to do if there's a problem, along with teaching staff often, helps everyone follow GDPR rules better."
+      },
+      {
+        "articleIdentifier": "Art 5(1)(d) - Accuracy principle",
+        "articleDescription": "Article 5(1)(d) of the General Data Protection Regulation (GDPR) requires organisations to ensure that personal data is accurate and kept up to date, with measures in place to rectify or erase inaccurate or incomplete data without delay.",
+        "recommendations": "Data Quality Controls: Your organisation should implement data quality controls and validation to guarantee that the personal data it collects and maintains is both accurate and complete to mitigate the likelihood of data being inaccurate or out of date. ",
+        "recommendations2": "Regular Data Maintenance: Regular data maintenance activities including data cleansing and verification can assist your organisation in quickly identifying and rectifying inaccuracies or data that is out of date, to ensure data accuracy as required under Article 5 of the GDPR. ",
+        "recommendations3": "Data Subject Rights: Offering data subjects rights to access, rectify, and erase their personal information allows your users to correct incorrect information or delete it from the system, improving data accuracy and complying with the GDPR."
+      },
+      {
+        "articleIdentifier": "Art 6(1)(f) - Legitimate interests",
+        "articleDescription": "Article 6(1)(f) of the GDPR lets organisations process personal data if it's needed for their legitimate interests, unless it harms the rights and freedoms of the people the data is about.",
+        "recommendations": "Legitimate Interests Assessment: Your organisation must ensure that the processing personal data is necessary for legitimate reasons.",
+        "recommendations2": "Balancing Interests and Rights: You need to balance your interests as an organisation in processing data with the rights and freedoms of the individual’s data you are processing. This ensures fairness and upholds privacy rights.",
+        "recommendations3": "Transparency and Accountability: Be transparent about why you're using people's data and give them the right to object if they disagree. This fosters trust and respects privacy."
+      },
+      {
+        "articleIdentifier": "Art 6(1)(a) - Consent",
+        "articleDescription": "Article 6(1)(a) of the GDPR allows organisations to process personal data if the data subject has given consent for the processing of their personal data.",
+        "recommendations": "Consent Management: Your organisation must make sure to get clear and informed agreement from people before using their personal data.",
+        "recommendations2": "Clear Communication: You must clearly explain why you need people's data and give them easy ways to say yes or no, respecting their privacy and giving them control.",
+        "recommendations3": "Documentation and Record-keeping: Keep good records of when and why people give their consent, so you can show that you're following the rules and respecting their rights as well as use this information as evidence for the future."
+      },
+      {
+        "articleIdentifier": "Art 14(2)(f) - Source of data",
+        "articleDescription": "Article 14(2)(f) of the GDPR requires organizations to inform individuals about the source of their personal data when it is not collected directly from them.",
+        "recommendations": "Data Source Documentation: Your organisation must keep clear records of where you got people's data from which ensures transparency and accountability in your data processing practices.",
+        "recommendations2": "Transparent Communication: You must be open with individuals about where their data comes from and how you intend to use it and provide clear explanations and options for them to control their personal information.",
+        "recommendations3": "Data Privacy Practices: Ensure that your organisation follows data protection principles when obtaining data from various sources and respect individuals' privacy rights and safeguarding their personal information."
+      }
+    ]
+  }
+}

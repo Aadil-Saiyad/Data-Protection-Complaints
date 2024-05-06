@@ -1,0 +1,23 @@
+/* Critical risk table value colour */
+.red-cell {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 105, 97);
+}
+
+/* High risk table value colour */
+.orange-cell {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255,179,71);
+}
+
+/* Moderate risk table value colour */
+.yellow-cell {
+    color: rgb(0, 0, 0);
+    background-color: rgb(253,253,150);
+}
+
+/* Low risk table value colour */
+.green-cell {
+    color: rgb(0, 0, 0);
+    background-color: rgb(91, 218, 91);
+}
